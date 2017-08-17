@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/vtitov/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/Users/vtitov/Documents/programming/android/game/lesson1/android/build/intermediates/pre-dexed/release/gdx-1.9.6_5400aa1bf40a928bcae6bd1cf6f7f0a136aa7d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vtitov/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/Users/vtitov/Documents/programming/android/game/lesson1/android/build/intermediates/pre-dexed/release/gdx-backend-android-1.9.6_06a47824a4280f9769a3ecb7d8d3464e18dfcfb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vtitov/Documents/programming/android/game/lesson1/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d647d121948fb580938fa8b3221c513d38e89ebd">
+        <dex dex="/Users/vtitov/Documents/programming/android/game/lesson1/android/build/intermediates/pre-dexed/release/core-1.0_626aec7d44d1a771fe3bf69dd4f04283be6fef44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/vtitov/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/Users/vtitov/Documents/programming/android/game/lesson1/android/build/intermediates/pre-dexed/release/gdx-box2d-1.9.6_f8ef60e9e737b3e7224868330d02072ee55ce7e0.jar" />
+    </item>
+
+</items>
